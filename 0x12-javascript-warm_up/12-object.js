@@ -1,8 +1,8 @@
 #!/usr/bin/node
-const myObject = {
+const myList = {
   type: 'object',
   value: 12
 };
-console.log(myObject);
-myObject.value = 89;
-console.log(myObject);
+console.log(myList);
+myList.value = 89;
+console.log(myList);
